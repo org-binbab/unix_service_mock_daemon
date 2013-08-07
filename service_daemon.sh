@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 #  service_daemon.sh
 #  ----------------------------------------------------------------------
@@ -17,8 +17,8 @@
 #   permissions and limitations under the License.
 #  ----------------------------------------------------------------------
 
-VERSION="0.1.0"
-RELEASE="2013-06-30"
+VERSION="0.1.1"
+RELEASE="2013-08-06"
 
 #  The latest version of this script, along with any documentation,
 #  source code, and bug/feature management is available at:
